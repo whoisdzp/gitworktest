@@ -6,4 +6,4 @@ I love study!
 
 Test branch in centos.
 
-master branch test!
+merge feature1 and master!
